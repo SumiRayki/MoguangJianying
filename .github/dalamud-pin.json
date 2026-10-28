@@ -1,0 +1,8 @@
+{
+  "distributionZip": "https://github.com/ottercorp/dalamud-distrib/raw/main/stg/latest.zip",
+  "distributionVersion": "https://github.com/ottercorp/dalamud-distrib/raw/main/stg/version",
+  "assemblyVersion": "15.0.3.8",
+  "supportedGameVer": "2026.10.06.0000.0000",
+  "gitSha": "ecd08fafd6092c51a011b23fe322442baaecf5ce",
+  "runtimeVersion": "10.0.1"
+}
