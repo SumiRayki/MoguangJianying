@@ -1,0 +1,34 @@
+[
+  {
+    "Author": "澄",
+    "Name": "魔光键影",
+    "Punchline": "进入魔光键影后按副本词条输入，每句间隔约 2 秒。尚未经实机确认。",
+    "Description": "进入用途为魔光键影的副本后，读取副本导演上的词条并输入。优先打断正在咏唱的敌人，其次是屏障类词条，其余打最近的敌人。每句之间默认间隔 2000 毫秒。禁止或沉默时暂停。默认关闭。尚未经实机确认。",
+    "Changelog": "0.1.0.0 测试版。从副本导演读取词条并输入，默认每句间隔约 2 秒。尚未经实机确认。",
+    "Tags": [
+      "goldsaucer",
+      "keybound",
+      "typing"
+    ],
+    "CategoryTags": [
+      "Utility"
+    ],
+    "InternalName": "MoguangJianying",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/SumiRayki/MoguangJianying",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/SumiRayki/MoguangJianying/releases/download/0.1.0.0/MoguangJianying.zip",
+    "DownloadLinkUpdate": "https://github.com/SumiRayki/MoguangJianying/releases/download/0.1.0.0/MoguangJianying.zip",
+    "DownloadLinkTesting": "https://github.com/SumiRayki/MoguangJianying/releases/download/0.1.0.0/MoguangJianying.zip",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "CanUnloadAsync": false,
+    "AcceptsFeedback": false,
+    "IsTestingExclusive": true,
+    "DownloadCount": 0
+  }
+]
